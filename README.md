@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oabdullo
-- 👀 I’m interested in Finance 
+- 👀 I’m interested in MMA and Wrestling
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on Node Projects 
 - 📫 How to reach me:
